@@ -1,2 +1,2 @@
 console.log("aula1")
-console.log("olá mundo")
+console.log("Aprendendo sobre Git")
